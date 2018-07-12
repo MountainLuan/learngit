@@ -3,4 +3,4 @@ Git is free software distrbuted under the GPL.
 Git has a mutable inde called stage.
 Git tracks changes of file.
 Creating a new branch is quick and simple. 
-Other text view by luan.
+Other text view-kuan.
